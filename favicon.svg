@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- BIOTHERMA mark "Termografia": a 3x3 heat map, hot corner (top-left) to cold corner,
+       on a solid red tile. Same mark as the sidebar logo (src/components/BrandMark.tsx). -->
+  <rect width="64" height="64" rx="14" fill="#dc2626"/>
+  <g transform="translate(12 12) scale(1.6667)" fill="#fff">
+    <rect x="3" y="3" width="5.4" height="5.4" rx="1.2" fill-opacity="1"/>
+    <rect x="9.2" y="3" width="5.4" height="5.4" rx="1.2" fill-opacity=".78"/>
+    <rect x="15.4" y="3" width="5.4" height="5.4" rx="1.2" fill-opacity=".5"/>
+    <rect x="3" y="9.2" width="5.4" height="5.4" rx="1.2" fill-opacity=".78"/>
+    <rect x="9.2" y="9.2" width="5.4" height="5.4" rx="1.2" fill-opacity=".5"/>
+    <rect x="15.4" y="9.2" width="5.4" height="5.4" rx="1.2" fill-opacity=".3"/>
+    <rect x="3" y="15.4" width="5.4" height="5.4" rx="1.2" fill-opacity=".5"/>
+    <rect x="9.2" y="15.4" width="5.4" height="5.4" rx="1.2" fill-opacity=".3"/>
+    <rect x="15.4" y="15.4" width="5.4" height="5.4" rx="1.2" fill-opacity=".16"/>
+  </g>
+</svg>
